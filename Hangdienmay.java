@@ -1,6 +1,6 @@
 /*
 *Ngày tạo : 29 thg 12, 2021
-*Tác giả : Trương Đăng Khao
+*Tác giả : Trương Đăng Khoa
 */
 package com.Khoatd2008110021.BaiKiemTraCuoiKy;
 
